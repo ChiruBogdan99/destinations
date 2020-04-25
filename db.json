@@ -1,4 +1,5 @@
-[
+ { "destinations":
+ [
   {
     "id": 1,
     "name": "DUBAI",
@@ -29,4 +30,5 @@
     "username": "ROMANIA",
     "email": "Lucio_Hettinger@annie.ca"
   }
-]
+ ]
+}
