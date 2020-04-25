@@ -28,35 +28,5 @@
     "name": "BUCURESTI",
     "username": "ROMANIA",
     "email": "Lucio_Hettinger@annie.ca"
-  },
-  {
-    "id": 6,
-    "name": "LONDRA",
-    "username": "REGATUL UNIT",
-    "email": "Karley_Dach@jasper.info"
-  },
-  {
-    "id": 7,
-    "name": "ISTANBUL",
-    "username": "TURCIA",
-    "email": "Telly.Hoeger@billy.biz"
-  },
-  {
-    "id": 8,
-    "name": "BANGKOK",
-    "username": "THAILANDA",
-    "email": "Sherwood@rosamond.me"
-  },
-  {
-    "id": 9,
-    "name": "TOKYO",
-    "username": "JAPONIA",
-    "email": "Chaim_McDermott@dana.io"
-  },
-  {
-    "id": 10,
-    "name": "ROMA",
-    "username": "ITALIA",
-    "email": "Rey.Padberg@karina.biz"
   }
 ]
