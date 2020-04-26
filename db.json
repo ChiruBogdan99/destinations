@@ -3,62 +3,52 @@
   {
     "id": 1,
     "name": "DUBAI",
-    "username": "EMIRATELE UNITE ARABE",
-    "email": "Sincere@april.biz"
+    "username": "EMIRATELE UNITE ARABE"
   },
   {
     "id": 2,
     "name": "LOS ANGELES",
-    "username": "STATELE UNITE ALE AMERICII",
-    "email": "Shanna@melissa.tv"
+    "username": "STATELE UNITE ALE AMERICII"
   },
   {
     "id": 3,
     "name": "PARIS",
-    "username": "FRANTA",
-    "email": "Nathan@yesenia.net"
+    "username": "FRANTA"
   },
   {
     "id": 4,
     "name": "BARCELONA",
-    "username": "SPANIA",
-    "email": "Julianne.OConner@kory.org"
+    "username": "SPANIA"
   },
   {
     "id": 5,
     "name": "BUCURESTI",
-    "username": "ROMANIA",
-    "email": "Lucio_Hettinger@annie.ca"
+    "username": "ROMANIA"
   },
   {
     "id": 6,
     "name": "LONDRA",
-    "username": "REGATUL UNIT",
-    "email": "Karley_Dach@jasper.info"
+    "username": "REGATUL UNIT"
   },
   {
     "id": 7,
     "name": "ISTANBUL",
-    "username": "TURCIA",
-    "email": "Telly.Hoeger@billy.biz"
+    "username": "TURCIA"
   },
   {
     "id": 8,
     "name": "BANGKOK",
-    "username": "THAILANDA",
-    "email": "Sherwood@rosamond.me"
+    "username": "THAILANDA"
   },
   {
     "id": 9,
     "name": "TOKYO",
-    "username": "JAPONIA",
-    "email": "Chaim_McDermott@dana.io"
+    "username": "JAPONIA"
   },
   {
     "id": 10,
     "name": "ROMA",
-    "username": "ITALIA",
-    "email": "Rey.Padberg@karina.biz"
+    "username": "ITALIA"
   }
 ]
 }
